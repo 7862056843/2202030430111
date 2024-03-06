@@ -1,0 +1,551 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<div style="width: 1440px; height: 5523px; position: relative; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="width: 1440px; height: 520px; position: relative; background: #F0ECF9; border-top-left-radius: 300px; overflow: hidden">
+    <img style="width: 549.62px; height: 350px; left: 775px; top: 170px; position: absolute" src="https://via.placeholder.com/550x350" />
+    <div style="left: 129px; top: 12px; position: absolute; color: black; font-size: 35px; font-family: Arvo; font-weight: 400; word-wrap: break-word">covid.</div>
+    <div style="width: 350px; left: 856px; top: 38px; position: absolute"></div>
+    <div style="left: 760px; top: 22px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 28px; display: inline-flex">
+      <div style="color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">home </div>
+      <div style="color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">Reports</div>
+      <div style="color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">centers</div>
+      <div style="width: 55px; color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">about</div>
+      <div style="width: 90px; color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">symptons</div>
+      <div style="width: 71px; color: #808081; font-size: 18px; font-family: Arvo; font-weight: 400; text-transform: capitalize; word-wrap: break-word">contact</div>
+    </div>
+    <div style="width: 544.36px; height: 218px; left: 129px; top: 151px; position: absolute">
+      <div style="width: 196px; height: 20px; left: 0px; top: -9px; position: absolute; color: rgba(111, 66, 193, 0.60); font-size: 16px; font-family: Mulish; font-weight: 700; text-transform: uppercase; word-wrap: break-word">covid-19 awareness</div>
+      <div style="width: 584px; height: 60px; left: 0px; top: 8px; position: absolute; color: #6F42C1; font-size: 48.27px; font-family: Mulish; font-weight: 900; text-transform: capitalize; letter-spacing: 1.93px; word-wrap: break-word">stay safe. stay Home.</div>
+      <div style="width: 544.36px; height: 43.86px; left: 0px; top: 88.35px; position: absolute; color: #808081; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit do amet sint officia. <br/>Velit officia consequat duis enim velit mollit. </div>
+      <div style="padding-left: 32.25px; padding-right: 32.25px; padding-top: 12.90px; padding-bottom: 12.90px; left: 0px; top: 172.21px; position: absolute; background: #6F42C1; border-radius: 25.80px; overflow: hidden; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+        <div style="color: white; font-size: 15px; font-family: Mulish; font-weight: 400; text-transform: capitalize; word-wrap: break-word">how to prevent</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 405px; position: relative">
+    <div style="left: 551px; top: 63px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">Coronavirus  Statistics</div>
+    <div style="left: 469px; top: 111px; position: absolute; color: rgba(0, 0, 0, 0.20); font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </div>
+    <div style="width: 272px; height: 190px; left: 231px; top: 190px; position: absolute">
+      <div style="width: 50px; height: 50px; left: 92px; top: 30px; position: absolute">
+        <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 33.33px; height: 37.50px; left: 8.33px; top: 6.25px; position: absolute; background: #6F42C1"></div>
+      </div>
+      <div style="width: 272px; padding-bottom: 54px; padding-left: 29px; padding-right: 28px; left: -2px; top: 0px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 215px; height: 136px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="width: 50px; height: 40px; position: relative">
+            <div style="width: 50px; height: 40px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 33.33px; height: 30px; left: 8.33px; top: 5px; position: absolute; background: #6F42C1"></div>
+          </div>
+          <div style="color: black; font-size: 35px; font-family: Mulish; font-weight: 900; line-height: 23px; word-wrap: break-word">95,856,25</div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 900; text-transform: uppercase; line-height: 23px; letter-spacing: 1.20px; word-wrap: break-word">active case</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 272px; height: 190px; left: 585px; top: 189px; position: absolute">
+      <div style="width: 50px; height: 50px; left: 92px; top: 30px; position: absolute">
+        <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 33.33px; height: 37.50px; left: 8.33px; top: 6.25px; position: absolute; background: #6F42C1"></div>
+      </div>
+      <div style="width: 272px; padding-bottom: 54px; padding-left: 29px; padding-right: 28px; left: -2px; top: 0px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 215px; height: 136px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="width: 50px; height: 40px; position: relative">
+            <div style="width: 50px; height: 40px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 33.33px; height: 30px; left: 8.33px; top: 5px; position: absolute; background: #6F42C1"></div>
+          </div>
+          <div style="color: black; font-size: 35px; font-family: Mulish; font-weight: 900; line-height: 23px; word-wrap: break-word">5,856,25</div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 900; text-transform: uppercase; line-height: 23px; letter-spacing: 1.20px; word-wrap: break-word">death case</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 272px; height: 190px; left: 939px; top: 190px; position: absolute">
+      <div style="width: 50px; height: 50px; left: 92px; top: 30px; position: absolute">
+        <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 33.33px; height: 37.50px; left: 8.33px; top: 6.25px; position: absolute; background: #6F42C1"></div>
+      </div>
+      <div style="width: 272px; padding-bottom: 54px; padding-left: 29px; padding-right: 28px; left: -2px; top: 0px; position: absolute; background: white; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 215px; height: 136px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="width: 50px; height: 40px; position: relative">
+            <div style="width: 50px; height: 40px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 33.33px; height: 30px; left: 8.33px; top: 5px; position: absolute; background: #6F42C1"></div>
+          </div>
+          <div style="color: black; font-size: 35px; font-family: Mulish; font-weight: 900; line-height: 23px; word-wrap: break-word">595,856,25</div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 900; text-transform: uppercase; line-height: 23px; letter-spacing: 1.20px; word-wrap: break-word">recovred cases</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1110px; height: 923px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 101px; display: inline-flex">
+    <div style="width: 1110px; height: 411px; position: relative">
+      <img style="width: 605px; height: 411px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/605x411" />
+      <div style="width: 403px; height: 320.80px; left: 707px; top: 0px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">What is coronavirus?</div>
+        <div style="width: 403px; left: 0px; top: 64px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation</div>
+        <div style="width: 235px; left: 23px; top: 160px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt</div>
+        <div style="width: 235px; left: 25px; top: 190px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Deserunt ullamco est sit</div>
+        <div style="left: 25px; top: 220px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Velit officia consequat duis enim </div>
+        <div style="padding-left: 32.25px; padding-right: 32.25px; padding-top: 12.90px; padding-bottom: 12.90px; left: 0px; top: 279px; position: absolute; background: #6F42C1; border-radius: 25.80px; overflow: hidden; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+          <div style="color: white; font-size: 15px; font-family: Mulish; font-weight: 400; text-transform: uppercase; word-wrap: break-word">learn More</div>
+        </div>
+        <div style="width: 15px; height: 15px; left: -2px; top: 164px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+        <div style="width: 15px; height: 15px; left: 0px; top: 194px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+        <div style="width: 15px; height: 15px; left: 0px; top: 224px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+      </div>
+      <div style="width: 88px; height: 66px; left: 517px; top: 345px; position: absolute">
+        <div style="width: 88px; height: 66px; left: 0px; top: 0px; position: absolute; background: #6F42C1"></div>
+      </div>
+    </div>
+    <div style="width: 1110px; height: 411px; position: relative">
+      <img style="width: 605px; height: 411px; left: 505px; top: 0px; position: absolute" src="https://via.placeholder.com/605x411" />
+      <div style="width: 403px; height: 320.80px; left: 0px; top: 0px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">Why is it Dangerous?</div>
+        <div style="width: 403px; left: 0px; top: 64px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation</div>
+        <div style="width: 235px; left: 23px; top: 160px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt</div>
+        <div style="width: 235px; left: 25px; top: 190px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Deserunt ullamco est sit</div>
+        <div style="left: 25px; top: 220px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Velit officia consequat duis enim </div>
+        <div style="padding-left: 32.25px; padding-right: 32.25px; padding-top: 12.90px; padding-bottom: 12.90px; left: 0px; top: 279px; position: absolute; background: #6F42C1; border-radius: 25.80px; overflow: hidden; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+          <div style="color: white; font-size: 15px; font-family: Mulish; font-weight: 400; text-transform: uppercase; word-wrap: break-word">learn More</div>
+        </div>
+        <div style="width: 15px; height: 15px; left: -2px; top: 164px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+        <div style="width: 15px; height: 15px; left: 0px; top: 194px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+        <div style="width: 15px; height: 15px; left: 0px; top: 224px; position: absolute">
+          <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+          <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+        </div>
+      </div>
+      <div style="width: 88px; height: 66px; left: 505px; top: 345px; position: absolute">
+        <div style="width: 88px; height: 66px; left: 0px; top: 0px; position: absolute; background: #6F42C1"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1179px; height: 95px; justify-content: center; align-items: flex-start; gap: 29px; display: inline-flex">
+    <div style="width: 273px; height: 95px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 273px; height: 95px; background: white"></div>
+      <div style="width: 169px; height: 46px; position: relative">
+        <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 18px; font-family: Mulish; font-weight: 900; text-transform: capitalize; line-height: 23px; word-wrap: break-word">symptoms</div>
+        <div style="width: 169px; left: 0px; top: 23px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non</div>
+      </div>
+      <div style="width: 50px; height: 50px; position: relative">
+        <img style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/50x50" />
+        <div style="width: 54px; height: 65px; left: -4px; top: -9px; position: absolute; background: #6F42C1"></div>
+      </div>
+    </div>
+    <div style="width: 273px; height: 95px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 273px; height: 95px; background: white"></div>
+      <div style="width: 169px; height: 46px; position: relative">
+        <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 18px; font-family: Mulish; font-weight: 900; text-transform: capitalize; line-height: 23px; word-wrap: break-word">protection</div>
+        <div style="width: 169px; left: 0px; top: 23px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non</div>
+      </div>
+      <div style="width: 50px; height: 50px; position: relative">
+        <img style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/50x50" />
+        <div style="width: 55px; height: 68px; left: 4px; top: -9px; position: absolute; background: #6F42C1"></div>
+      </div>
+    </div>
+    <div style="width: 273px; height: 95px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 273px; height: 95px; background: white"></div>
+      <div style="position: relative">
+        <div style="width: 50.92px; height: 50px; left: 0px; top: 0px; position: absolute">
+          <img style="width: 50.92px; height: 50px; left: 0px; top: 0px; position: absolute; mix-blend-mode: multiply" src="https://via.placeholder.com/51x50" />
+          <div style="width: 51.94px; height: 69px; left: 3.06px; top: -11px; position: absolute; mix-blend-mode: multiply; background: #6F42C1"></div>
+        </div>
+        <div style="width: 169px; height: 46px; left: 61px; top: 2px; position: absolute">
+          <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 18px; font-family: Mulish; font-weight: 900; text-transform: capitalize; line-height: 23px; word-wrap: break-word">security</div>
+          <div style="width: 169px; left: 0px; top: 23px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 273px; height: 95px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="width: 273px; height: 95px; background: white"></div>
+      <div style="width: 169px; height: 46px; position: relative">
+        <div style="left: 0px; top: 0px; position: absolute; color: #6F42C1; font-size: 18px; font-family: Mulish; font-weight: 900; text-transform: capitalize; line-height: 23px; word-wrap: break-word">treatment</div>
+        <div style="width: 169px; left: 0px; top: 23px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non</div>
+      </div>
+      <div style="width: 50px; height: 50px; position: relative">
+        <img style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/50x50" />
+        <div style="width: 54px; height: 72px; left: 0px; top: -13px; position: absolute; background: #6F42C1"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1440px; height: 800px; position: relative; background: #F8F5FC">
+    <div style="width: 528px; height: 737px; left: 132px; top: 32px; position: absolute">
+      <div style="width: 239px; height: 300px; left: 0px; top: 87px; position: absolute">
+        <div style="width: 239px; height: 300px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 10px rgba(111, 66, 193, 0.20); border-radius: 10px"></div>
+        <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute; background: #E2D9F3; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
+          <div style="width: 70.55px; height: 80px; left: 84.66px; top: 25px; position: absolute">
+            <div style="width: 70.55px; height: 80px; padding-left: 8.23px; padding-right: 8.23px; padding-top: 12.24px; padding-bottom: 12.24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 54.09px; height: 55.52px; background: #6D7D8B"></div>
+            </div>
+            <div style="width: 83.25px; height: 102.40px; left: -2.82px; top: -14.40px; position: absolute; background: #6F42C1"></div>
+          </div>
+        </div>
+        <div style="width: 193.13px; height: 100px; left: 23px; top: 167px; position: absolute">
+          <div style="width: 131px; left: 0px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; text-transform: capitalize; word-wrap: break-word">Stay at home</div>
+          <div style="left: 0.13px; top: 31px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non dese<br/>ullamco est sit aliqua dolor<br/>do amet sint. </div>
+        </div>
+      </div>
+      <div style="width: 239px; height: 300px; left: 0px; top: 437px; position: absolute">
+        <div style="width: 239px; height: 300px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 10px rgba(111, 66, 193, 0.20); border-radius: 10px"></div>
+        <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute; background: #E2D9F3; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
+          <div style="width: 70.55px; height: 80px; left: 84.66px; top: 25px; position: absolute">
+            <div style="width: 70.55px; height: 80px; padding-left: 8.23px; padding-right: 8.23px; padding-top: 12.24px; padding-bottom: 12.24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 54.09px; height: 55.52px; background: #6D7D8B"></div>
+            </div>
+            <div style="width: 83.25px; height: 102.40px; left: -2.82px; top: -14.40px; position: absolute; background: #6F42C1"></div>
+          </div>
+        </div>
+        <div style="width: 193.13px; height: 100px; left: 23px; top: 167px; position: absolute">
+          <div style="width: 131px; left: 0px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; text-transform: capitalize; word-wrap: break-word">Stay at home</div>
+          <div style="left: 0.13px; top: 31px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non dese<br/>ullamco est sit aliqua dolor<br/>do amet sint. </div>
+        </div>
+      </div>
+      <div style="width: 239px; height: 300px; left: 289px; top: 350px; position: absolute">
+        <div style="width: 239px; height: 300px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 10px rgba(111, 66, 193, 0.20); border-radius: 10px"></div>
+        <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute; background: #E2D9F3; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
+          <div style="width: 70.55px; height: 80px; left: 84.66px; top: 25px; position: absolute">
+            <div style="width: 70.55px; height: 80px; padding-left: 8.23px; padding-right: 8.23px; padding-top: 12.24px; padding-bottom: 12.24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 54.09px; height: 55.52px; background: #6D7D8B"></div>
+            </div>
+            <div style="width: 83.25px; height: 102.40px; left: -2.82px; top: -14.40px; position: absolute; background: #6F42C1"></div>
+          </div>
+        </div>
+        <div style="width: 193.13px; height: 100px; left: 23px; top: 167px; position: absolute">
+          <div style="width: 131px; left: 0px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; text-transform: capitalize; word-wrap: break-word">Stay at home</div>
+          <div style="left: 0.13px; top: 31px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non dese<br/>ullamco est sit aliqua dolor<br/>do amet sint. </div>
+        </div>
+      </div>
+      <div style="width: 239px; height: 300px; left: 289px; top: 0px; position: absolute">
+        <div style="width: 239px; height: 300px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 10px rgba(111, 66, 193, 0.20); border-radius: 10px"></div>
+        <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 239px; height: 130px; left: 0px; top: 0px; position: absolute; background: #E2D9F3; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
+          <div style="width: 70.55px; height: 80px; left: 84.66px; top: 25px; position: absolute">
+            <div style="width: 70.55px; height: 80px; padding-left: 8.23px; padding-right: 8.23px; padding-top: 12.24px; padding-bottom: 12.24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+              <div style="width: 54.09px; height: 55.52px; background: #6D7D8B"></div>
+            </div>
+            <div style="width: 83.25px; height: 102.40px; left: -2.82px; top: -14.40px; position: absolute; background: #6F42C1"></div>
+          </div>
+        </div>
+        <div style="width: 193.13px; height: 100px; left: 23px; top: 167px; position: absolute">
+          <div style="width: 131px; left: 0px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; text-transform: capitalize; word-wrap: break-word">Stay at home</div>
+          <div style="left: 0.13px; top: 31px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non dese<br/>ullamco est sit aliqua dolor<br/>do amet sint. </div>
+        </div>
+      </div>
+    </div>
+    <div style="left: 736px; top: 162px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">How to prevernt Coronavirus?</div>
+    <div style="left: 736px; top: 227px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div style="width: 403px; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation</div>
+    </div>
+    <div style="left: 736px; top: 316px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div style="width: 403px; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </div>
+    </div>
+    <div style="width: 235px; left: 761px; top: 400px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt</div>
+    <div style="width: 235px; left: 763px; top: 430px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Deserunt ullamco est sit</div>
+    <div style="left: 763px; top: 460px; position: absolute; color: #989898; font-size: 16px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Velit officia consequat duis enim </div>
+    <div style="padding-left: 32.25px; padding-right: 32.25px; padding-top: 12.90px; padding-bottom: 12.90px; left: 736px; top: 519px; position: absolute; background: #6F42C1; border-radius: 25.80px; overflow: hidden; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+      <div style="color: white; font-size: 13px; font-family: Mulish; font-weight: 400; text-transform: uppercase; word-wrap: break-word">read more about prevention</div>
+    </div>
+    <div style="width: 15px; height: 15px; left: 736px; top: 404px; position: absolute">
+      <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+    </div>
+    <div style="width: 15px; height: 15px; left: 736px; top: 434px; position: absolute">
+      <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+    </div>
+    <div style="width: 15px; height: 15px; left: 736px; top: 464px; position: absolute">
+      <div style="width: 15px; height: 15px; left: 0px; top: 0px; position: absolute"></div>
+      <div style="width: 12.50px; height: 12.50px; left: 1.25px; top: 1.25px; position: absolute; background: #6F42C1"></div>
+    </div>
+  </div>
+  <div style="color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">How to protect yourself</div>
+  <div style="color: rgba(0, 0, 0, 0.20); font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. </div>
+  <div style="width: 1124px; height: 444.32px; position: relative">
+    <div style="width: 524px; height: 295px; left: 0px; top: 79px; position: absolute">
+      <div style="left: 2px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">You should do</div>
+      <div style="left: 303px; top: 0px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">You should avoid</div>
+      <div style="width: 135px; left: 0px; top: 57px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="width: 109px; left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Stay at home</div>
+      </div>
+      <div style="width: 202px; height: 23px; padding-top: 4px; padding-bottom: 4px; padding-right: 187px; left: 303px; top: 57px; position: absolute; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div style="width: 15px; height: 15px"></div>
+      </div>
+      <div style="width: 135px; left: 0px; top: 100px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="width: 109px; left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Wear mask</div>
+      </div>
+      <div style="width: 135px; left: 0px; top: 143px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="width: 109px; left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Use Sanitizer</div>
+      </div>
+      <div style="left: 0px; top: 186px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Disinfect your home</div>
+      </div>
+      <div style="left: 0px; top: 229px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">wash your hands</div>
+      </div>
+      <div style="left: 0px; top: 272px; position: absolute">
+        <div style="width: 15px; height: 15px; left: 0px; top: 4px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="width: 15px; height: 15px"></div>
+          <div style="width: 12.50px; height: 12.50px; background: #1CC51C"></div>
+        </div>
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Frequent self-isolation</div>
+      </div>
+      <div style="left: 303px; top: 57px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid Infected people</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+      <div style="left: 303px; top: 100px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid animals</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+      <div style="left: 303px; top: 143px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid  handshaking</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+      <div style="left: 303px; top: 186px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid infected sufaces</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+      <div style="left: 303px; top: 229px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid touching your face</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+      <div style="left: 303px; top: 272px; position: absolute">
+        <div style="left: 26px; top: 0px; position: absolute; color: #989898; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Avoid droplets</div>
+        <div style="width: 15px; height: 15px; padding: 3.38px; left: 0px; top: 4px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+          <div style="width: 8.24px; height: 8.24px; background: #EF5DA8"></div>
+        </div>
+      </div>
+    </div>
+    <img style="width: 549px; height: 444.32px; left: 575px; top: 0px; position: absolute" src="https://via.placeholder.com/549x444" />
+  </div>
+  <div style="width: 1439px; height: 875px; position: relative; background: #F8F5FC">
+    <div style="left: 541px; top: 63px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">Symtoms of coranavirus</div>
+    <div style="left: 466px; top: 111px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.20); font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. <br/>Amet minim mollit non deserunt </div>
+    <div style="left: 235px; top: 716px; position: absolute"><span style="color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Stay at home and call your doctor: </span><span style="color: #808081; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word"> Amet minim mollit non deserunt ullam<br/>est sit aliqua dolor do amet sint.  </span></div>
+    <div style="width: 470px; height: 184px; left: 162px; top: 249px; position: absolute">
+      <div style="width: 470px; height: 184px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 10px 12px rgba(190.19, 190.19, 190.19, 0.25)"></div>
+      <div style="height: 102px; left: 35px; top: 37px; position: absolute">
+        <img style="width: 80px; height: 80px; left: 0px; top: 11px; position: absolute" src="https://via.placeholder.com/80x80" />
+        <div style="width: 298px; height: 102px; padding-right: 35px; left: 102px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">High Fever</div>
+          <div style="color: #A4A4A4; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullam<br/>est sit aliqua dolor do amet sint. Velit  <br/>consequat duis enim velit mollit.</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 470px; height: 184px; left: 807px; top: 249px; position: absolute">
+      <div style="width: 470px; height: 184px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 10px 12px rgba(190.19, 190.19, 190.19, 0.25)"></div>
+      <div style="height: 102px; left: 35px; top: 37px; position: absolute">
+        <img style="width: 80px; height: 80px; left: 0px; top: 11px; position: absolute" src="https://via.placeholder.com/80x80" />
+        <div style="width: 298px; height: 102px; padding-right: 35px; left: 102px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Cough</div>
+          <div style="color: #A4A4A4; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullam<br/>est sit aliqua dolor do amet sint. Velit  <br/>consequat duis enim velit mollit.</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 470px; height: 184px; left: 162px; top: 473px; position: absolute">
+      <div style="width: 470px; height: 184px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 10px 12px rgba(190.19, 190.19, 190.19, 0.25)"></div>
+      <div style="height: 102px; left: 35px; top: 37px; position: absolute">
+        <img style="width: 80px; height: 80px; left: 0px; top: 11px; position: absolute" src="https://via.placeholder.com/80x80" />
+        <div style="width: 298px; height: 102px; padding-right: 36px; left: 102px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Sore Troath</div>
+          <div style="color: #A4A4A4; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullam<br/>est sit aliqua dolor do amet sint. Velit  <br/>consequat duis enim velit mollit.</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 470px; height: 184px; left: 807px; top: 473px; position: absolute">
+      <div style="width: 470px; height: 184px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 10px 12px rgba(190.19, 190.19, 190.19, 0.25)"></div>
+      <div style="height: 102px; left: 35px; top: 37px; position: absolute">
+        <img style="width: 80px; height: 80px; left: 0px; top: 11px; position: absolute" src="https://via.placeholder.com/80x80" />
+        <div style="width: 298px; height: 102px; padding-right: 35px; left: 102px; top: 0px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+          <div style="text-align: center; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Headache</div>
+          <div style="color: #A4A4A4; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullam<br/>est sit aliqua dolor do amet sint. Velit  <br/>consequat duis enim velit mollit.</div>
+        </div>
+      </div>
+    </div>
+    <div style="padding-left: 32.25px; padding-right: 32.25px; padding-top: 12.90px; padding-bottom: 12.90px; left: 1049px; top: 716px; position: absolute; background: #6F42C1; border-radius: 25.80px; overflow: hidden; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
+      <div style="color: white; font-size: 15px; font-family: Mulish; font-weight: 400; text-transform: capitalize; word-wrap: break-word">hELP LINE</div>
+    </div>
+  </div>
+  <div style="width: 1179px; height: 538px; position: relative">
+    <div style="left: 442px; top: 0px; position: absolute; color: #6F42C1; font-size: 30px; font-family: Mulish; font-weight: 900; text-transform: capitalize; word-wrap: break-word">News and Articles</div>
+    <div style="left: 336px; top: 48px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.20); font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. <br/>Amet minim mollit non deserunt </div>
+    <div style="width: 373px; height: 351px; left: 0px; top: 187px; position: absolute">
+      <img style="width: 373px; height: 248.57px; left: 0px; top: 2px; position: absolute" src="https://via.placeholder.com/373x249" />
+      <div style="width: 146px; height: 32px; left: 114px; top: 237px; position: absolute">
+        <div style="width: 146px; height: 32px; left: 0px; top: 0px; position: absolute; background: #6F42C1"></div>
+        <div style="width: 95px; height: 27px; left: 26px; top: 3px; position: absolute; color: white; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">5 Dec. 2021</div>
+      </div>
+      <div style="left: 58px; top: 314px; position: absolute; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 600; line-height: 23px; word-wrap: break-word">How coronavirus very contigous</div>
+      <div style="width: 249px; height: 24px; left: 62px; top: 282px; position: absolute; justify-content: center; align-items: flex-start; gap: 55px; display: inline-flex">
+        <div style="width: 80px; align-self: stretch; padding-bottom: 4px; padding-right: 10px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="width: 40px; color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">admin</div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 4px; padding-right: 5px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">2 comments</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 373px; height: 351px; left: 403px; top: 187px; position: absolute">
+      <img style="width: 373px; height: 248.57px; left: 0px; top: 2px; position: absolute" src="https://via.placeholder.com/373x249" />
+      <div style="width: 146px; height: 32px; left: 114px; top: 237px; position: absolute">
+        <div style="width: 146px; height: 32px; left: 0px; top: 0px; position: absolute; background: #6F42C1"></div>
+        <div style="left: 21px; top: 5px; position: absolute; color: white; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">10 Dec. 2021</div>
+      </div>
+      <div style="left: 58px; top: 314px; position: absolute; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 600; line-height: 23px; word-wrap: break-word">How coronavirus very contigous</div>
+      <div style="width: 249px; height: 24px; left: 62px; top: 282px; position: absolute; justify-content: center; align-items: flex-start; gap: 55px; display: inline-flex">
+        <div style="width: 80px; align-self: stretch; padding-bottom: 4px; padding-right: 10px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="width: 40px; color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">admin</div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 4px; padding-right: 5px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">5 comments</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 373px; height: 351px; left: 806px; top: 187px; position: absolute">
+      <img style="width: 373px; height: 248.57px; left: 0px; top: 2px; position: absolute" src="https://via.placeholder.com/373x249" />
+      <div style="width: 146px; height: 32px; left: 114px; top: 237px; position: absolute">
+        <div style="width: 146px; height: 32px; left: 0px; top: 0px; position: absolute; background: #6F42C1"></div>
+        <div style="width: 95px; height: 27px; left: 26px; top: 3px; position: absolute; color: white; font-size: 17px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">5 Dec. 2021</div>
+      </div>
+      <div style="left: 58px; top: 314px; position: absolute; color: #6F42C1; font-size: 17px; font-family: Mulish; font-weight: 600; line-height: 23px; word-wrap: break-word">How coronavirus very contigous</div>
+      <div style="width: 249px; height: 24px; left: 62px; top: 282px; position: absolute; justify-content: center; align-items: flex-start; gap: 55px; display: inline-flex">
+        <div style="width: 80px; align-self: stretch; padding-bottom: 4px; padding-right: 10px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="width: 40px; color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">admin</div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 4px; padding-right: 5px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
+          <div style="width: 20px; height: 20px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 20px; height: 20px"></div>
+            <div style="width: 16.67px; height: 16.67px; background: #DADADA"></div>
+          </div>
+          <div style="color: #989898; font-size: 12px; font-family: Mulish; font-weight: 400; text-transform: uppercase; line-height: 23px; word-wrap: break-word">2 comments</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1442px; height: 331px; position: relative; background: #F8F5FC">
+    <div style="left: 131px; top: 63px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">About</div>
+    <div style="left: 533px; top: 69px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Quick Links</div>
+    <div style="left: 834px; top: 72px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Helpful Linls</div>
+    <div style="left: 1140px; top: 69px; position: absolute; color: black; font-size: 17px; font-family: Mulish; font-weight: 700; line-height: 23px; word-wrap: break-word">Resources</div>
+    <div style="width: 302px; left: 131px; top: 104px; position: absolute; color: #989898; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit <br/>officia consequat duis enim velit mollit. </div>
+    <div style="width: 25px; height: 25px; left: 131px; top: 226px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 25px; height: 25px; position: relative">
+        <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute; background: #3B5998"></div>
+        <div style="width: 6.35px; height: 13.60px; left: 9.58px; top: 6.25px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="width: 25px; height: 25px; left: 176px; top: 226px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 25px; height: 25px; position: relative">
+        <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute; background: #55ACEE"></div>
+        <div style="width: 12.10px; height: 10px; left: 6.25px; top: 7.50px; position: absolute; background: white"></div>
+      </div>
+    </div>
+    <div style="width: 25px; height: 25px; left: 221px; top: 226px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 25px; height: 25px; position: relative">
+        <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute; background: black"></div>
+          <img style="width: 13.33px; height: 13.33px; left: 5.83px; top: 5.83px; position: absolute" src="https://via.placeholder.com/13x13" />
+        </div>
+      </div>
+    </div>
+    <div style="width: 25px; height: 25px; left: 266px; top: 226px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 25px; height: 25px; position: relative">
+        <div style="width: 25px; height: 25px; left: 0px; top: 0px; position: absolute; background: #FF0000"></div>
+        <div style="width: 13.33px; height: 9.58px; left: 5.83px; top: 7.92px; position: absolute; background: white"></div>
+        <div style="width: 3.33px; height: 4.17px; left: 11.25px; top: 10.83px; position: absolute; background: #FF0000"></div>
+      </div>
+    </div>
+    <div style="left: 533px; top: 106px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Symptoms</div>
+    <div style="left: 834px; top: 109px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Healthcare Professional</div>
+    <div style="left: 1140px; top: 106px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">WHO Website</div>
+    <div style="left: 533px; top: 139px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Prevention</div>
+    <div style="left: 834px; top: 142px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">LGU Facilities</div>
+    <div style="left: 1140px; top: 139px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">CDC Website</div>
+    <div style="left: 533px; top: 172px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">FAQs</div>
+    <div style="left: 834px; top: 175px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Protect Your Family</div>
+    <div style="left: 1140px; top: 172px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Gov Website</div>
+    <div style="left: 533px; top: 205px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">About Coronavirus</div>
+    <div style="left: 834px; top: 208px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">World Health</div>
+    <div style="left: 1140px; top: 205px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">DOH Website</div>
+    <div style="left: 533px; top: 238px; position: absolute; color: #6F42C1; font-size: 15px; font-family: Mulish; font-weight: 400; line-height: 23px; word-wrap: break-word">Contact Us</div>
+  </div>
+</div>
+<img style="width: 2491px; height: 1144px" src="https://via.placeholder.com/2491x1144" />
+<img style="width: 2119px; height: 1152px" src="https://via.placeholder.com/2119x1152" />
+<img style="width: 2162px; height: 1089px" src="https://via.placeholder.com/2162x1089" />
+<img style="width: 1904px; height: 1002px" src="https://via.placeholder.com/1904x1002" />
+<img style="width: 2282px; height: 1215px" src="https://via.placeholder.com/2282x1215" />
+</body>
+</html>
